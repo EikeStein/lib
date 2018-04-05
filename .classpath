@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="android-volley-master/android-volley-master/src/|android-volley-master/android-volley-master/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="android-volley-master/android-volley-master/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
